@@ -3,7 +3,7 @@
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![PyTorch Version](https://img.shields.io/badge/pytorch-2.0%2B-orange)
 
-A novel deep learning architecture combining wavelet transforms and frequency domain analysis for robust detection of AI-generated synthetic images. Achieves **94% recall** on CIFAKE dataset while maintaining real-time performance.
+A novel deep learning architecture combining wavelet transforms and frequency domain analysis for robust detection of AI-generated synthetic images. Achieves high accuracy on CIFAKE dataset while maintaining real-time performance.
 
 🔍 **Key Innovation**: First architecture to simultaneously process spatial features and wavelet-frequency representations through parallel processing streams.
 
