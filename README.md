@@ -5,7 +5,7 @@
 
 A novel deep learning architecture combining wavelet transforms and frequency domain analysis for robust detection of AI-generated synthetic images. Achieves high accuracy on CIFAKE dataset while maintaining real-time performance.
 
-🔍 **Key Innovation**: First architecture to simultaneously process spatial features and wavelet-frequency representations through parallel processing streams.
+🔍 **Key Innovation**: An architecture to simultaneously process spatial features and wavelet-frequency representations through parallel processing streams.
 
 ---
 
