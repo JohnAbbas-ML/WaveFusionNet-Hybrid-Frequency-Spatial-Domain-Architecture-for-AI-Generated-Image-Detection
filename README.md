@@ -1,0 +1,1 @@
+# WaveFusionNet-Hybrid-Frequency-Spatial-Domain-Architecture-for-AI-Generated-Image-Detection
